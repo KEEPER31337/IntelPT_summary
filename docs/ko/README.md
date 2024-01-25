@@ -8,6 +8,6 @@
 
 [33.1 Overview](./33.1-Overview.md)
 
-[33.2 Intel® Processor Trace Operational Model](./33.2-INTEL®-PROCESSOR-TRACE-OPERATIONAL-MODEL.md)
+[33.2 Intel® Processor Trace Operational Model](./33.2-INTEL%C2%AE%20PROCESSOR%20TRACE%20OPERATIONAL%20MODEL.md)
 
-[33.3 Configuration and programming Guideline](./33.3-CONFIGURATION-AND-PROGRAMMING-GUIDELINE.md)
+[33.3 Configuration and programming Guideline](./33.3-CONFIGURATION%20AND%20PROGRAMMING%20GUIDELINE.md)

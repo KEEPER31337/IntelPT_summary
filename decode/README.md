@@ -1,4 +1,4 @@
-# Intel PT를 이용해 trace하는 방법
+# libipt를 이용한 decode 방법
 
 * [Linux](#linux)
   + [libipt/ptdump](#libipt/ptdump)

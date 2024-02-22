@@ -1,4 +1,4 @@
-# libipt를 이용한 decode 방법
+# Decoding using libipt
 
 * [Linux](#linux)
   + [libipt/ptdump](#libipt/ptdump)

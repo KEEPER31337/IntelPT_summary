@@ -8,6 +8,12 @@
   + [winipt](#winipt)
 
 
+## Intel PT features check
+
+Intel PT를 사용하기 위해서는 CPU에서 Intel PT를 지원하는지 확인해야합니다.
+
+[Quick and dirty check for Intel Processor Trace (PT) features](https://gist.github.com/carter-yagemann/d8718f7f6f6b7fd99d325a1c89542c61)
+
 ## Linux
 
 ### perf command

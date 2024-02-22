@@ -17,7 +17,7 @@
 
 ### perf system call ( sample tool )
 
-TBD
+[example-tool](./trace_tool_example)
 
 ### simple pt
 
